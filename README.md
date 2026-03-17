@@ -1,12 +1,12 @@
 <div align="center">
         
-# CBOnlineApp
+# CboneloGateProApp
 😎⚡️Online App for Coding Blocks Online
 
-[![codebeat badge](https://codebeat.co/badges/29c4e81e-f936-47a5-8d9f-2ac15cd9b13d)](https://codebeat.co/projects/github-com-coding-blocks-cbonlineapp-development)
-[![Maintainability](https://api.codeclimate.com/v1/badges/fb21e9bcd76c6905d68f/maintainability)](https://codeclimate.com/github/coding-blocks/CBOnlineApp/maintainability)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3871ba02cd654b9585f1d9c8bc0f4365)](https://www.codacy.com/app/championswimmer/CBOnlineApp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=coding-blocks/CBOnlineApp&amp;utm_campaign=Badge_Grade)
-![Build](https://github.com/coding-blocks/CBOnlineApp/workflows/Build/badge.svg)
+[![codebeat badge](https://codebeat.co/badges/29c4e81e-f936-47a5-8d9f-2ac15cd9b13d)](https://codebeat.co/projects/github-com-coding-blocks-cbonelogateapp-development)
+[![Maintainability](https://api.codeclimate.com/v1/badges/fb21e9bcd76c6905d68f/maintainability)](https://codeclimate.com/github/coding-blocks/CboneloGateProApp/maintainability)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3871ba02cd654b9585f1d9c8bc0f4365)](https://www.codacy.com/app/championswimmer/CboneloGateProApp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=coding-blocks/CboneloGateProApp&amp;utm_campaign=Badge_Grade)
+![Build](https://github.com/coding-blocks/CboneloGateProApp/workflows/Build/badge.svg)
 
 An app to consume online courses available at https://online.codingblocks.com
 
