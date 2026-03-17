@@ -8,13 +8,13 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3871ba02cd654b9585f1d9c8bc0f4365)](https://www.codacy.com/app/championswimmer/CboneloGateProApp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=coding-blocks/CboneloGateProApp&amp;utm_campaign=Badge_Grade)
 ![Build](https://github.com/coding-blocks/CboneloGateProApp/workflows/Build/badge.svg)
 
-An app to consume online courses available at https://online.codingblocks.com
+An app to consume online courses available at https://https://my.play/CBONELOCODING
 
 Application is available here:
 
-<a href='https://play.google.com/store/apps/details?id=com.codingblocks.cbonlineapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.codingblocks.cbonelogateproapp><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80"/></a>
 
-[![Downloads Badge](https://img.shields.io/endpoint?logo=google-play&url=https://api-playstore.rajkumaar.co.in/downloads?id=com.codingblocks.cbonlineapp&color=success)](https://play.google.com/store/apps/details?id=com.codingblocks.cbonlineapp) [![Rating Badge](https://img.shields.io/endpoint?logo=google-play&url=https://api-playstore.rajkumaar.co.in/rating?id=com.codingblocks.cbonlineapp&color=success)](https://play.google.com/store/apps/details?id=com.codingblocks.cbonlineapp) 
+[![Downloads Badge](https://img.shields.io/endpoint?logo=google-play&url=https://api-playstore.rajkumaar.co.in/downloads?id=com.codingblocks.cbonelogateproapp&color=success)](https://play.google.com/store/apps/details?id=com.codingblocks.cbonlineapp) [![Rating Badge](https://img.shields.io/endpoint?logo=google-play&url=https://api-playstore.rajkumaar.co.in/rating?id=com.codingblocks.cbonlineapp&color=success)](https://play.google.com/store/apps/details?id=com.codingblocks.cbonlogateproeapp) 
 
 </div>
 
